@@ -1,4 +1,8 @@
 ### Hi there, my name is Igor 👋
+- I'm from São Paulo - Brazil
+- I'm currently working on independent projects (React and Node)
+- Email: igorcontri@gmail.com
+
 <!--
 **igorcontri/igorcontri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
