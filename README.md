@@ -1,7 +1,7 @@
 ### Hi there, my name is Igor 👋
 - I'm from São Paulo - Brazil
-- **Data Engineer Student** at **Compass UOL**
-- Working on independent projects **(React and Node)**
+- **Data Engineer Student**
+- **Web Development - React and Node**
 - Email: igorcontri@gmail.com
 
 <!--
