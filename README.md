@@ -1,7 +1,7 @@
 ### Hi there, my name is Igor 👋
 - I'm from São Paulo - Brazil
-- **Data Engineer Student**
-- **Web Development - React and Node**
+- **Data Engineer Trainee**
+- **Web Development Trainee**
 - Email: igorcontri@gmail.com
 
 <!--
