@@ -2,7 +2,6 @@
 - I'm from São Paulo - Brazil
 - **Data Engineer Trainee at CompassUOL**
 - I'm currently learning SQL, Spark, Databricks.
-- **Web Development Trainee**
 - Email: igorcontri@gmail.com
 
 <!--
