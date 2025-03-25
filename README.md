@@ -1,8 +1,8 @@
 ### Hi there, my name is Igor 👋
 - I'm from São Paulo - Brazil
-- **Data Engineer at CompassUOL**
-- I'm currently learning SQL, Spark, Databricks.
-- Email: igorcontri@gmail.com
+- **Data Engineer at [CompassUOL](https://compass.uol/en/home/)**
+- My currently main stacks are SQL, Spark, Databricks, Azure, Data Factory.
+- LinkedIn: [igorcontri](https://www.linkedin.com/in/igorcontri/)
 
 <!--
 **igorcontri/igorcontri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
