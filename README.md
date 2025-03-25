@@ -1,6 +1,6 @@
 ### Hi there, my name is Igor 👋
 - I'm from São Paulo - Brazil
-- **Data Engineer Trainee at CompassUOL**
+- **Data Engineer at CompassUOL**
 - I'm currently learning SQL, Spark, Databricks.
 - Email: igorcontri@gmail.com
 
